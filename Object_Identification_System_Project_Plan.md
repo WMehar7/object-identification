@@ -108,7 +108,7 @@ To design, build, test, and document a working CPU-only system that identifies a
 
 ---
 
-## 5. Data Requirements
+## 5. Data Requirement
 
 ### 5.1 Data Types Needed
 
